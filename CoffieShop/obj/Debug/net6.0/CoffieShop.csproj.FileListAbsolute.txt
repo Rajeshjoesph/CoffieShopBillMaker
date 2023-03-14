@@ -1,0 +1,17 @@
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\bin\Debug\net6.0\CoffieShop.exe
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\bin\Debug\net6.0\CoffieShop.deps.json
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\bin\Debug\net6.0\CoffieShop.runtimeconfig.json
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\bin\Debug\net6.0\CoffieShop.dll
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\bin\Debug\net6.0\CoffieShop.pdb
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\bin\Debug\net6.0\ConsoleTables.dll
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\obj\Debug\net6.0\CoffieShop.csproj.AssemblyReference.cache
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\obj\Debug\net6.0\CoffieShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\obj\Debug\net6.0\CoffieShop.AssemblyInfoInputs.cache
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\obj\Debug\net6.0\CoffieShop.AssemblyInfo.cs
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\obj\Debug\net6.0\CoffieShop.csproj.CoreCompileInputs.cache
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\obj\Debug\net6.0\CoffieShop.csproj.CopyComplete
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\obj\Debug\net6.0\CoffieShop.dll
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\obj\Debug\net6.0\refint\CoffieShop.dll
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\obj\Debug\net6.0\CoffieShop.pdb
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\obj\Debug\net6.0\CoffieShop.genruntimeconfig.cache
+E:\bridgeLab\C_Sharpe\CoffieShop\CoffieShop\CoffieShop\obj\Debug\net6.0\ref\CoffieShop.dll
